@@ -1,4 +1,4 @@
-2 greetings
+2 Greetings
 
 hello spiros
 hello kiriakos
